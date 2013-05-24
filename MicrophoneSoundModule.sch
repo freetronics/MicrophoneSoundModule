@@ -1114,9 +1114,9 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 <sheet>
 <plain>
 <text x="7.62" y="20.32" size="3.048" layer="94">Microphone Sound Input Module</text>
-<text x="38.1" y="14.478" size="1.778" layer="94">V1.0 (2011-10-11)</text>
+<text x="38.1" y="14.478" size="1.778" layer="94">V1.1 (2013-05-24)</text>
 <text x="7.62" y="14.478" size="1.778" layer="94">SKU: MIC</text>
-<text x="7.366" y="9.398" size="1.778" layer="94">(C)2011 Freetronics Pty Ltd: www.freetronics.com</text>
+<text x="7.366" y="9.398" size="1.778" layer="94">(C)2011-2013 Freetronics Pty Ltd: www.freetronics.com</text>
 <text x="7.366" y="6.35" size="1.778" layer="94">Released under the TAPR Open Hardware License: www.tapr.org/ohl</text>
 <text x="68.326" y="14.478" size="1.778" layer="94">www.freetronics.com/mic</text>
 <text x="10.16" y="27.178" size="1.778" layer="94">Input voltage: 2.7 to 5.5Vdc (10V maximum)</text>
